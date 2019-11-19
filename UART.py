@@ -31,4 +31,4 @@ while True:
     print (received_data)                   #print received data
     ser.write(received_data)                #transmit data serially 
 
-    #aby otworzyc okno przesylu, na urzadzeniu odbierajacym nalezy otworzyc Serial Monitor i ustawic baudrate na 9600
+    #aby otworzyc okno przesylu, na urzadzeniu odbierajacym nalezy otworzyc Serial Monitor i ustawic baudrate na 11520
