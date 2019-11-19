@@ -51,6 +51,10 @@ def connect():
   
   
   
+  ###do dokonczenia
+  
+  
+  
 def tryb0(event):
   print("0")
 
